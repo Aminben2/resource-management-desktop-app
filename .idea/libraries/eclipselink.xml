@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="eclipselink">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jpa/eclipselink.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jpa/jakarta.annotation-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jpa/jakarta.persistence-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jpa/org.eclipse.persistence.jpa.modelgen.processor.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jpa/org.eclipse.persistence.jpars.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
